@@ -1,2 +1,2 @@
-# smart-greenhouse
-This is github repository for my smart greenhouse
+# Smart greenhouse
+This is github repository of my smart greenhouse
